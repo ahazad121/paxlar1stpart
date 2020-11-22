@@ -1,0 +1,11 @@
+@media (min-width:1200px){
+    .btn-custom{
+        display: none;
+    }
+}
+
+@media (max-width:1199px){
+    .btn-primary{
+        display: none;
+    }
+}
